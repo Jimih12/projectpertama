@@ -264,3 +264,66 @@ a {
     background-color:#fff ;
     border-radius: 10px;
 }
+#tentang-saya > .wrapper > div > .desc > p {
+    margin: 0px 0px 10px 0px;
+
+}
+#tentang-saya > .wrapper > div > .desc > .sosial {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    font-size: 1.3rem;
+}
+#tentang-saya > .wrapper > div > .desc > .sosial > a {
+    color: #00ADB5;
+}
+
+/*
+* Free Course
+*/
+
+#free-course{
+    background-color: #393E46;
+    color: #fff;
+}
+#free-course > .wrapper {
+    padding: 50px 0px 50px 0px;
+}
+#free-course > .wrapper > h4 {
+    text-align: center;
+    font-size: 2.8rem;
+    margin: 0px;
+    padding: 0px;
+    font-family:"Kanit", sans-serif; 
+}
+#free-course > .wrapper > h4 > span {
+    color: #ffce10;
+}
+#free-course > .wrapper > p {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 50px;
+}
+#free-course > .wrapper >.grid >.item {
+    background-color: #222831;
+    margin: 0px;
+    padding: 0px;
+}
+#free-course > .wrapper >.grid >.item >.item-detail{
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.4rem;
+    width: 100%;
+}
+#free-course > .wrapper >.grid >.item >.item-detail > img{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#free-course > .wrapper >.grid >.item >.item-detail > div {
+    padding: 10px 20px 10px 20px;
+}
+
+
+
